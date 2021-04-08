@@ -1,0 +1,26 @@
+
+OBJECTIVE: Make a responsive webpage using HTML, CSS, BOOTSTRAP, JAVASCRIPT/JQUERY (from the sample image: DZ_Page_Design.jpg).
+
+Please follow the below instructions for developing the web page:
+
+1) Using Photoshop and Bootstrap is mandatory.
+
+2) Use images from "images folder".
+
+3) Edit the "office.jpg" image with photoshop and write "DATA IS THE NEW OIL" on it and then use that "office.jpg" image in your web page.
+
+4) Use font-awesome-4.7 for trophy and checkbox icons.
+
+5) Use twitter, facebook and linkedin icons from "images folder".
+
+6) Go to dataZen Engineering official website and find their social media accounts links in the bottom of the homepage then put those urls behind your "Follow us on:" section's social media links. 
+
+7) Use "Select list" for "Enquiry For" input.
+
+Options are: 
+1) Data Services
+2) Software Development
+3) Logistics
+4) ECommerce
+
+(Note: Along with all the above requirements, you can add more creativity from your side by adding transitions, animations and js events etc.)
